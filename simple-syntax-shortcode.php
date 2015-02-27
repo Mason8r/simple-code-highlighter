@@ -10,6 +10,7 @@ Version: 0.1.0
 Text Domain: Stucode
 License: GPL version 2 or later - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 */
+defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
 
 //Get the highlight stuff from the highlight CDN
 function load_highlight_js()
